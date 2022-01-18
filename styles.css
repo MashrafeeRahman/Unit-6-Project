@@ -1,0 +1,119 @@
+body {
+    color: #FFD700;
+    text-align: center;
+    font-family: 'Times New Roman', sans-serif;
+}
+
+.title {
+    font-size: 60px;
+    background-color: #0000FF;
+    font-weight: 900;
+    padding: 0 20px;
+}
+
+.button {
+    display: flex;
+    justify-content: center;
+    
+}
+.act2 {
+    display: none;
+    color: #0000FF;
+}
+.message-2 {
+    height: 250px;
+}
+.message-3 {
+    height: 300px;
+}
+.message-4 {
+    height: 300px;
+}
+.message-5 {
+    color: #FFD700;
+}
+.act2 {
+    background: #FF0000;
+}
+p {
+    font-size: 30px;
+    font-weight: 900;
+}
+
+
+.firstImage {
+    height: 350px;
+}
+
+.start-button {
+    height: 40px;
+}
+.Totodile {
+    display: none;
+    color: #006400;
+}
+.Torchic {
+    display: none;
+    color: #00FFFF; 
+}
+.Turtwig {
+    display: none;
+    color: #FFA500;
+    height: 20em;
+}
+.Red {
+    height: 750px;
+}
+.Red2 {
+    height: 750px;
+}
+.Red3 {
+    height: 750px;
+}
+.Battle {
+    display: none;
+    color: #088F8F;
+}
+.Water-Gun {
+    height: 300px;
+}
+.Growl {
+    height: 300px;
+}
+.Battle-Torchic {
+    display: none;
+    color: #EE4B2B;
+}
+.Flamethrower {
+    height: 300px;
+}
+.Taunt {
+    height: 300px;
+}
+.Battle-Turtwig {
+    display: none;
+    color: #355E3B;
+}
+.Energy-Ball {
+    height: 300px;
+}
+.Sleep {
+    height: 260px;
+}
+.Final-Battle-Lose {
+    color: #FF0000;
+    font-size: 50px;
+    display: none;
+}
+.Red-Lose {
+    height: 700px;
+}
+.Red-Win {
+    height: 700px;
+}
+.Final-Battle-Win {
+    color: #FF0000;
+    font-size: 50px;
+    display: none;
+}
+/* Check out `display:none`. What do you think it does?*/
